@@ -23,7 +23,7 @@ A second phase will expand the modeling architecture and approach to accomodate 
   2) forward-looking 90 days' average WTI price.
 
 A third phase will build an adjacent performance tracking application which automates the prediction based on most recent available data,
-routinely makes and records prediction associated with the current date, then measures the accuracy of that prediction as actual data 
+routinely makes and records a prediction associated with the current date, then measures the accuracy of that prediction as actual data 
 becomes available.
 
 A fourth phase will productionize the model and performance tracking, and build+deploy an associated web application.

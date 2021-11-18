@@ -10,10 +10,10 @@ This objective for this project is to demonstrate various approaches to predicti
 price. This price is widely relied upon in the US and North America to indicate rising or falling costs of petroleum-derived products 
 such as gasoline, operations activity and investments associated with oil exploration and production, and to gauge the impact of these
 on the broader economy.
-  https://en.wikipedia.org/wiki/West_Texas_Intermediate
+https://en.wikipedia.org/wiki/West_Texas_Intermediate
 
-The initial phase will call data from various endpoints in the US Energy Information Administration (EIA) API. 
-  https://www.eia.gov/opendata/
+The initial phase will call data from various endpoints in the US Energy Information Administration (EIA) API.
+https://www.eia.gov/opendata/
 Those data will be chosen based on supply and demand related factors commonly known or believed to substantially influence the WTI price,
 and will be engineered as features for various machine learning architectures. This phase will attempt to predict the forward-looking 30 
 days' average WTI price as a sole target for the model.
